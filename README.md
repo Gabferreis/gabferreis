@@ -1,4 +1,4 @@
-## Olá, me chamo Gabriel Ferreira, bem-vindo ao meu perfil!!!
+## Olá, me chamo <b>Gabriel Ferreira</b>, bem-vindo ao meu perfil!!!
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabferreis&theme=codeSTACKr&title_color=ff4747&show_icons=true&icon_color=c74040&card_width=820" />
