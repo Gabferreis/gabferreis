@@ -94,21 +94,21 @@ Prazer, me chamo **Gabriel Ferreira** eu tenho 22 anos e sou natural do Rio de J
 
 ### Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats"
-    height="250px" 
-    style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=Gabferreis&custom_title=Minhas%20estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=gruvbox&card_width=400" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="250px"
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=Gabferreis&layout=pie&hide_title=true&langs_count=8&theme=gruvbox" 
-  />
-
----
-
+<a href="https://github-stats-extended.vercel.app/api?username=Gabferreis">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=Gabferreis&theme=gruvbox"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=Gabferreis&theme=gruvbox" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=Gabferreis&layout=compact&langs_count=8&card_width=320">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Gabferreis&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Gabferreis&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
+  </picture>
+</a>
