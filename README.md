@@ -92,7 +92,7 @@ Prazer, me chamo **Gabriel Ferreira** eu tenho 22 anos e sou natural do Rio de J
 
 ---
 
-### Estatísticas
+### <img src="https://www.svgrepo.com/show/444864/stats-lines.svg" width="20" style="vertical-align: middle;" /> Estatísticas
 
 <a href="https://github-stats-extended.vercel.app/api?username=Gabferreis">
   <picture>
