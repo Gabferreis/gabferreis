@@ -103,12 +103,12 @@ Prazer, me chamo **Gabriel Ferreira** eu tenho 22 anos e sou natural do Rio de J
     <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=Gabferreis&theme=gruvbox" />
   </picture>
 </a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=Gabferreis&layout=compact&langs_count=8&card_width=320">
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=Gabferreis&layout=compact&langs_count=8&card_width=200">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Gabferreis&layout=compact&langs_count=8&card_width=320&theme=gruvbox"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Gabferreis&layout=compact&langs_count=8&card_width=200&theme=gruvbox"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Gabferreis&layout=compact&langs_count=8&card_width=220&theme=gruvbox" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Gabferreis&layout=compact&langs_count=8&card_width=200&theme=gruvbox" />
   </picture>
 </a>
