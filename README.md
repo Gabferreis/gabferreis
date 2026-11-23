@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Prazer, me chamo **Gabriel Ferreira** eu tenho 22 anos e sou natural do Rio de Janeiro, tenho o **ensino médio completo** e sou formado pela Estácio em **Análise e Desenvolvimento de Sistemas**. Sou fanático por tecnologia e desde sempre me interesso por ela, sou novo na área da programação porêm sinto que encontrei minha nova paixão. Caso queira saber mais de mim, veja também meu [instagram](https://www.instagram.com/gabferreis/) e também meu [LinkedIn](https://www.linkedin.com/in/gabferreis/).
+Prazer, me chamo **Gabriel Ferreira** eu tenho 22 anos e sou natural do Rio de Janeiro, tenho o **ensino médio completo** e sou formado pela Estácio em **Análise e Desenvolvimento de Sistemas**. Sou fanático por tecnologia e desde sempre me interesso por ela, sou novo na área da programação porêm sinto que encontrei minha nova paixão. Caso queira saber mais de mim, veja também meu [Instagram](https://www.instagram.com/gabferreis/) e também meu [LinkedIn](https://www.linkedin.com/in/gabferreis/).
 
 
 <p align="left">
